@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		4515DAF92DEF8A350034E1AA /* DependabotTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DependabotTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4515DB082DEF8A6D0034E1AA /* AppDependency */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = AppDependency; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +33,7 @@
 		4515DAF02DEF8A350034E1AA = {
 			isa = PBXGroup;
 			children = (
+				4515DB082DEF8A6D0034E1AA /* AppDependency */,
 				4515DAFB2DEF8A350034E1AA /* DependabotTest */,
 				4515DAFA2DEF8A350034E1AA /* Products */,
 			);
